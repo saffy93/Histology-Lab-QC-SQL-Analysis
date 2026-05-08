@@ -6,7 +6,7 @@ I built this project to practice using SQL on the kind of QC data I work with ev
 
 
 
-It lets me query specimen volumes, IHC slides, error rates, deviations, and turnaround times — the same metrics I check during real-time QC checks every shift.
+It lets me query specimen volumes, IHC slides, error rates, deviations, and turnaround times. These are the same metrics I check during real-time QC checks every shift.
 
 
 
