@@ -46,4 +46,4 @@ This is a practical way for me to combine my 8+ years of hands-on CAP/CLIA lab e
 
 ## Built by
 
-Safra Dar — Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality systems roles.
+Safra Dar: Histologist with 8+ years of CAP/CLIA-regulated QC experience transitioning into clinical data analytics and quality systems roles.
